@@ -1,8 +1,8 @@
-## Hi there 👋
+## Hello! My name is Jakuz Reynante! I am an Electrical Engineering student at California State University, Northridge.
 
 <!--
 **jakuzreynante/jakuzreynante** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
+Hello! My name is Jakuz Reynante! I am an Electrical Engineering student at California State University, Northridge.
 Here are some ideas to get you started:
 
 - 🔭 I’m currently working on ...
